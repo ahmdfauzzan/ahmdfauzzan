@@ -1,7 +1,5 @@
 # Selamat datang di GitHub Ahmad Fauzan!
 
-![Banner GitHub Ahmad Fauzan]
-
 Halo semua! 👋
 
 Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan ketertarikan khusus dalam _web development_, _machine learning_, dan _open-source_.
@@ -17,41 +15,32 @@ Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan keter
 - 😄 Pronouns: Dia/He/Him
 - ⚡ Fakta Menarik: Saya juga seorang musisi amatir pada akhir pekan.
 
-## Skill
+## Skills
 
-### JavaScript
-<div>
-  <!-- Anda bisa menggunakan style inline atau class dengan style yang ditentukan dalam file CSS terpisah -->
-  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
-    <div style="height: 20px; width: 75%; background-color: #4CAF50; border-radius: 5px;">
-      <span style="color: white;">75%</span>
-    </div>
+<p><b>JavaScript</b></p>
+<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
+  <div style="height: 24px; width: 75%; background: linear-gradient(to left, #f7df1e, #ffc107); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
+    <strong style="color: #333;">75%</strong>
   </div>
 </div>
 
-### Python
-<div>
-  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
-    <div style="height: 20px; width: 70%; background-color: #306998; border-radius: 5px;">
-      <span style="color: white;">70%</span>
-    </div>
+<p><b>Python</b></p>
+<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
+  <div style="height: 24px; width: 70%; background: linear-gradient(to left, #3776ab, #0073b7); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
+    <strong style="color: #fff;">70%</strong>
   </div>
 </div>
 
-### React
-<div>
-  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
-    <div style="height: 20px; width: 60%; background-color: #61DBFB; border-radius: 5px;">
-      <span style="color: white;">60%</span>
-    </div>
+<p><b>React</b></p>
+<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
+  <div style="height: 24px; width: 60%; background: linear-gradient(to left, #61dbfb, #4e9fce); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
+    <strong style="color: #333;">60%</strong>
   </div>
 </div>
 
-### Node.js
-<div>
-  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
-    <div style="height: 20px; width: 50%; background-color: #3C873A; border-radius: 5px;">
-      <span style="color: white;">50%</span>
-    </div>
+<p><b>Node.js</b></p>
+<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
+  <div style="height: 24px; width: 50%; background: linear-gradient(to left, #68A063, #8CC84B); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
+    <strong style="color: #fff;">50%</strong>
   </div>
 </div>
