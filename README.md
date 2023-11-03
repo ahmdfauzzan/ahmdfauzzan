@@ -15,15 +15,7 @@ Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan keter
 - 😄 Pronouns: Dia/He/Him
 - ⚡ Fakta Menarik: Saya juga seorang musisi amatir pada akhir pekan.
 
-## Skills
-
-## Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-70%25-blue?style=flat&logo=python)
-![React](https://img.shields.io/badge/React-60%25-blue?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-50%25-green?style=flat&logo=node.js)
-
+### Skills
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
