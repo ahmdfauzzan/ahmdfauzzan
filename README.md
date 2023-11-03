@@ -17,30 +17,9 @@ Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan keter
 
 ## Skills
 
-<p><b>JavaScript</b></p>
-<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
-  <div style="height: 24px; width: 75%; background: linear-gradient(to left, #f7df1e, #ffc107); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
-    <strong style="color: #333;">75%</strong>
-  </div>
-</div>
+## Skills
 
-<p><b>Python</b></p>
-<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
-  <div style="height: 24px; width: 70%; background: linear-gradient(to left, #3776ab, #0073b7); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
-    <strong style="color: #fff;">70%</strong>
-  </div>
-</div>
-
-<p><b>React</b></p>
-<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
-  <div style="height: 24px; width: 60%; background: linear-gradient(to left, #61dbfb, #4e9fce); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
-    <strong style="color: #333;">60%</strong>
-  </div>
-</div>
-
-<p><b>Node.js</b></p>
-<div style="background: #ddd; border-radius: 8px; overflow: hidden;">
-  <div style="height: 24px; width: 50%; background: linear-gradient(to left, #68A063, #8CC84B); text-align: right; line-height: 24px; border-radius: 8px 0 0 8px; padding-right: 5px;">
-    <strong style="color: #fff;">50%</strong>
-  </div>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-70%25-blue?style=flat&logo=python)
+![React](https://img.shields.io/badge/React-60%25-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-50%25-green?style=flat&logo=node.js)
