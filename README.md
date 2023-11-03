@@ -19,8 +19,39 @@ Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan keter
 
 ## Skill
 
-```text
-JavaScript   ███████████████░░░░   75%
-Python       █████████████░░░░░░   70%
-React        ███████████░░░░░░░░   60%
-Node.js      ██████████░░░░░░░░░   50%
+### JavaScript
+<div>
+  <!-- Anda bisa menggunakan style inline atau class dengan style yang ditentukan dalam file CSS terpisah -->
+  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
+    <div style="height: 20px; width: 75%; background-color: #4CAF50; border-radius: 5px;">
+      <span style="color: white;">75%</span>
+    </div>
+  </div>
+</div>
+
+### Python
+<div>
+  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
+    <div style="height: 20px; width: 70%; background-color: #306998; border-radius: 5px;">
+      <span style="color: white;">70%</span>
+    </div>
+  </div>
+</div>
+
+### React
+<div>
+  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
+    <div style="height: 20px; width: 60%; background-color: #61DBFB; border-radius: 5px;">
+      <span style="color: white;">60%</span>
+    </div>
+  </div>
+</div>
+
+### Node.js
+<div>
+  <div style="background-color: lightgrey; width: 200px; border-radius: 5px;">
+    <div style="height: 20px; width: 50%; background-color: #3C873A; border-radius: 5px;">
+      <span style="color: white;">50%</span>
+    </div>
+  </div>
+</div>
