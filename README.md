@@ -2,7 +2,7 @@
 
 Halo semua! 👋
 
-Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan ketertarikan khusus dalam _web development
+Nama saya **Ahmad Fauzan**. Saya adalah seorang pengembang software dengan ketertarikan khusus dalam web development
 
 ### Skills
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
