@@ -21,16 +21,7 @@ Berikut adalah teknologi yang saya gunakan dalam pengembangan web saat ini:
   <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="40" height="40" />
   </a>
-  <a href="https://ui.shadcn.dev/" target="_blank" rel="noreferrer">
-    <img src="https://ui.shadcn.dev/og.jpg" alt="shadcn/ui" width="40" height="40" />
-  </a>
 </p>
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 Terima kasih telah mengunjungi profil saya! 🚀
